@@ -6,4 +6,5 @@ printf("the current population of llamas is %i" k);
 }
 int gtllms(){
     int n = get_int("what is the current population of llamas");
+    return n;
 }
